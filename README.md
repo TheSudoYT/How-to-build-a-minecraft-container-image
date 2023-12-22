@@ -6,3 +6,5 @@ Contains the Dockerfile example for creating a custom container image using an e
 
 ## From Scratch
 Contains the Dockerfile example for creating a custom container image from a vanilla Ubuntu OS and downloading Minecraft.
+
+[<img src="/docs/images/thumb.png" width="50%">](https://www.youtube.com/watch?v=ne3YOEBEi6Q "How to Create a Minecraft Server Container Image | Create Your Custom Minecraft Image with Docker")
